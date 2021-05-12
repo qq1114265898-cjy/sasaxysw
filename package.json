@@ -34,6 +34,6 @@
   },
   "dependencies": {
     "babel-loader": "^8.0.6",
-    "swiper": "^5.2.1"
+    "swiper": "^6.5.1"
   }
 }
